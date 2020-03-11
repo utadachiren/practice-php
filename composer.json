@@ -1,0 +1,6 @@
+{
+    "name": "root/app",
+    "require": {
+        "monolog/monolog": "1.0.1"
+    }
+}
